@@ -1,5 +1,5 @@
 # Group Members
 - Douglas Mellon
-- Sean Strawman
+- Sean Strawmatt
 - Jessica Torres
 - Jacob Schroeder
