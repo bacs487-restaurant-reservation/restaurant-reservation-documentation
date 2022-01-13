@@ -3,3 +3,4 @@
 - Sean Strawmatt
 - Jessica Torres
 - Jacob Schroeder
+- Emmanuel Fierro Bustillos
